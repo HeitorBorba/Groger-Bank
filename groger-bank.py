@@ -7,7 +7,7 @@ informacoes = int(input('Digite 1 para sacar, \n'
                     '            Digite (3) para solicitar emprestimo, \n'
                     '            Digite (4) para visualizar informaçoes, \n'
                     '            Digite qualquer outro numero para sair: '))
-s
+
 
 def fsaque():
     saque = float(input('Digite o quanto você deseja sacar: '))
