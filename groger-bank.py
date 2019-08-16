@@ -4,8 +4,7 @@ saldo = float(input('Digite seu saldo: '))
 
 informacoes = int(input('Digite 1 para sacar, \n'
                     '            Digite (2) para fazer depósito, \n'
-                    '            Digite (3) para solicitar emprestimo, \n'
-                    '            Digite (4) para visualizar informaçoes, \n'
+                    '            Digite (3) para visualizar informaçoes, \n'
                     '            Digite qualquer outro numero para sair: '))
 
 
