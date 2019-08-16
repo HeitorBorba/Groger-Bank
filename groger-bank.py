@@ -29,9 +29,9 @@ def fdeposito():
         print('Seu saldo agora é: ' + str(saldo + deposito))
 
 def finformacoes():
-    print(nome)
+    print(nome )
     print(idade)
-    print(saldo)
+    print('R$' + str(saldo))
 
 if informacoes == 1:
     fsaque()
